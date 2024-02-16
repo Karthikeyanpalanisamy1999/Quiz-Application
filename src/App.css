@@ -1,0 +1,12 @@
+.underline{
+  text-decoration: underline;
+}
+.bor{
+  border: 2px solid none;
+  height: 220px;
+  width: 500px;
+  margin-left: 400px;
+}
+.quizcolor{
+  background: #FDEDEC ;
+}
